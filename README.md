@@ -62,19 +62,20 @@ excellence. 🌟 Thank you for choosing our solution! 🙌
 
 ## Main Contributors
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-  <div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
     <a href="https://github.com/smitjagani">
-      <img src="https://media.licdn.com/dms/image/D4D03AQH6odYKtHwjRQ/profile-displayphoto-shrink_800_800/0/1698583832615?e=2147483647&v=beta&t=mUoLICHOKggLGLAQyal14Pi83RofBezTY6xXJ5fc5Mg" alt="GitHub contributors" width="100" height="100" style="display: block; margin: 0 auto;">
+      <img src="https://media.licdn.com/dms/image/D4D03AQH6odYKtHwjRQ/profile-displayphoto-shrink_800_800/0/1698583832615?e=2147483647&v=beta&t=mUoLICHOKggLGLAQyal14Pi83RofBezTY6xXJ5fc5Mg" alt="GitHub contributors" width="100" height="100">
     </a>
     <h3 style="margin-top: 5; background-image: linear-gradient(to right, #ff00cc, #3333ff); -webkit-background-clip: text; color: transparent;">Smit Jagani</h3>
   </div>
 
-  <div style="text-align: center; margin-left: 20px;"> <!-- Added margin-left to create space between the two views -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://github.com/DarshakDesai199">
-      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEi4zbsikebIaYJUW5esbB4Co9gd2p91-EVENGDSutmgwaPqo-C9ES9R0oYSJqXg9iedKKUjJtH1ev98yX-M8-K0dmZD-qZj4y0Km_CV8-Knzhh8oidU2J067cRUBkANhs1zD9ntUhukTt4FcyVErltRdlQkvFYjrzAdhl-J3AQEnHTHqd7nw2ykkElVx8lS" alt="GitHub contributors" width="100" height="100" style="display: block; margin: 0 auto;">
+      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEi4zbsikebIaYJUW5esbB4Co9gd2p91-EVENGDSutmgwaPqo-C9ES9R0oYSJqXg9iedKKUjJtH1ev98yX-M8-K0dmZD-qZj4y0Km_CV8-Knzhh8oidU2J067cRUBkANhs1zD9ntUhukTt4FcyVErltRdlQkvFYjrzAdhl-J3AQEnHTHqd7nw2ykkElVx8lS" alt="GitHub contributors" width="100" height="100">
     </a>
     <h3 style="margin-top: 5; background-image: linear-gradient(to right, #ff00cc, #3333ff); -webkit-background-clip: text; color: transparent;">Darshak Desai</h3>
   </div>
 </div>
+
 
