@@ -60,28 +60,11 @@ Like if you appreciate it! 👍 If our solution adds value to your project or ma
 show your support by giving it a thumbs up! Your feedback motivates us to continue delivering
 excellence. 🌟 Thank you for choosing our solution! 🙌
 
+
 ## Main Contributors
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="display: flex; align-items: center;">
-    <div style="text-align: center; margin-right: 20px;">
-      <a href="https://github.com/smitjagani">
-        <img src="https://media.licdn.com/dms/image/D4D03AQH6odYKtHwjRQ/profile-displayphoto-shrink_800_800/0/1698583832615?e=2147483647&v=beta&t=mUoLICHOKggLGLAQyal14Pi83RofBezTY6xXJ5fc5Mg" alt="GitHub contributors" width="100" height="100" style="display: block; margin: 0 auto;">
-      </a>
-          <h4 style="margin-top: 5;">Smit Jagani</h4>
-    </div>
-  </div>
-
-  <div style="display: flex; align-items: center;">
-    <div style="text-align: center;">
-      <a href="https://github.com/DarshakDesai199">
-        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEi4zbsikebIaYJUW5esbB4Co9gd2p91-EVENGDSutmgwaPqo-C9ES9R0oYSJqXg9iedKKUjJtH1ev98yX-M8-K0dmZD-qZj4y0Km_CV8-Knzhh8oidU2J067cRUBkANhs1zD9ntUhukTt4FcyVErltRdlQkvFYjrzAdhl-J3AQEnHTHqd7nw2ykkElVx8lS" alt="GitHub contributors" width="100" height="100" style="display: block; margin: 0 auto;">
-      </a>
-        <h4 style="margin-top: 5;">Darshak Desai</h4>
-    </div>
-  </div>
-</div>
-
+| <img src="https://blogger.googleusercontent.com/img/a/AVvXsEi4zbsikebIaYJUW5esbB4Co9gd2p91-EVENGDSutmgwaPqo-C9ES9R0oYSJqXg9iedKKUjJtH1ev98yX-M8-K0dmZD-qZj4y0Km_CV8-Knzhh8oidU2J067cRUBkANhs1zD9ntUhukTt4FcyVErltRdlQkvFYjrzAdhl-J3AQEnHTHqd7nw2ykkElVx8lS" alt="Smit Jagani" width="100"> | <img src="https://blogger.googleusercontent.com/img/a/AVvXsEi4zbsikebIaYJUW5esbB4Co9gd2p91-EVENGDSutmgwaPqo-C9ES9R0oYSJqXg9iedKKUjJtH1ev98yX-M8-K0dmZD-qZj4y0Km_CV8-Knzhh8oidU2J067cRUBkANhs1zD9ntUhukTt4FcyVErltRdlQkvFYjrzAdhl-J3AQEnHTHqd7nw2ykkElVx8lS" alt="Darshak Desai" width="100"> |
+|-------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| [Smit Jagani](https://github.com/johndoe)                                 | [Darshak Desai](https://github.com/DarshakDesai199)                              |
 
 
 
