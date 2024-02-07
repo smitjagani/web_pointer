@@ -82,19 +82,18 @@ excellence. 🌟 Thank you for choosing our solution! 🙌
   </div>
 </div>
 
-<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
+<div style="display: flex; justify-content: center;">
+  <div
     <a href="https://github.com/smitjagani">
-        <img src="https://media.licdn.com/dms/image/D4D03AQH6odYKtHwjRQ/profile-displayphoto-shrink_800_800/0/1698583832615?e=2147483647&v=beta&t=mUoLICHOKggLGLAQyal14Pi83RofBezTY6xXJ5fc5Mg" alt="Smit Jagani" style="margin-bottom: 10px; width: 100px; height: 100px;">
+        <img src="https://media.licdn.com/dms/image/D4D03AQH6odYKtHwjRQ/profile-displayphoto-shrink_800_800/0/1698583832615?e=2147483647&v=beta&t=mUoLICHOKggLGLAQyal14Pi83RofBezTY6xXJ5fc5Mg" alt="Smit Jagani" style="margin-right: 20px; width: 100px; height: 100px;">
     </a>
-    <p>Smit Jagani</p>
+            <h2 style="margin-top: 5;">Darshak Desai</h2>
+  </div>
+    <a href="https://github.com/DarshakDesai199">
+        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEi4zbsikebIaYJUW5esbB4Co9gd2p91-EVENGDSutmgwaPqo-C9ES9R0oYSJqXg9iedKKUjJtH1ev98yX-M8-K0dmZD-qZj4y0Km_CV8-Knzhh8oidU2J067cRUBkANhs1zD9ntUhukTt4FcyVErltRdlQkvFYjrzAdhl-J3AQEnHTHqd7nw2ykkElVx8lS" alt="Darshak Desai" style="width: 100px; height: 100px;">
+    </a>
 </div>
 
-<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
-    <a href="https://github.com/DarshakDesai199">
-        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEi4zbsikebIaYJUW5esbB4Co9gd2p91-EVENGDSutmgwaPqo-C9ES9R0oYSJqXg9iedKKUjJtH1ev98yX-M8-K0dmZD-qZj4y0Km_CV8-Knzhh8oidU2J067cRUBkANhs1zD9ntUhukTt4FcyVErltRdlQkvFYjrzAdhl-J3AQEnHTHqd7nw2ykkElVx8lS" alt="Darshak Desai" style="margin-bottom: 10px; width: 100px; height: 100px;">
-    </a>
-    <p>Darshak Desai</p>
-</div>
 
 
 
