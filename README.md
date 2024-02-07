@@ -68,7 +68,7 @@ excellence. 🌟 Thank you for choosing our solution! 🙌
       <a href="https://github.com/smitjagani">
         <img src="https://media.licdn.com/dms/image/D4D03AQH6odYKtHwjRQ/profile-displayphoto-shrink_800_800/0/1698583832615?e=2147483647&v=beta&t=mUoLICHOKggLGLAQyal14Pi83RofBezTY6xXJ5fc5Mg" alt="GitHub contributors" width="100" height="100" style="display: block; margin: 0 auto;">
       </a>
-      <h3 style="margin-top: 5; background-image: linear-gradient(to right, #ff00cc, #3333ff); -webkit-background-clip: text; color: transparent;">Smit Jagani</h3>
+          <h3 style="margin-top: 5;">Smit Jagani</h3>
     </div>
   </div>
 
@@ -77,7 +77,7 @@ excellence. 🌟 Thank you for choosing our solution! 🙌
       <a href="https://github.com/DarshakDesai199">
         <img src="https://blogger.googleusercontent.com/img/a/AVvXsEi4zbsikebIaYJUW5esbB4Co9gd2p91-EVENGDSutmgwaPqo-C9ES9R0oYSJqXg9iedKKUjJtH1ev98yX-M8-K0dmZD-qZj4y0Km_CV8-Knzhh8oidU2J067cRUBkANhs1zD9ntUhukTt4FcyVErltRdlQkvFYjrzAdhl-J3AQEnHTHqd7nw2ykkElVx8lS" alt="GitHub contributors" width="100" height="100" style="display: block; margin: 0 auto;">
       </a>
-      <h3 style="margin-top: 5; background-image: linear-gradient(to right, #ff00cc, #3333ff); -webkit-background-clip: text; color: transparent;">Darshak Desai</h3>
+        <h3 style="margin-top: 5;">Darshak Desai</h3>
     </div>
   </div>
 </div>
