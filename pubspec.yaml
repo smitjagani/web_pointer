@@ -1,0 +1,22 @@
+name: web_pointer
+description: "Craft a visually captivating Flutter web pointer to elevate user interaction and add style to your website. Engage your audience with elegance!"
+version: 1.1.1
+homepage: https://github.com/smitjagani/web_pointer
+repository: https://github.com/smitjagani/web_pointer
+issue_tracker: https://github.com/smitjagani/web_pointer/issues
+
+environment:
+  sdk: '>=3.2.1 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
