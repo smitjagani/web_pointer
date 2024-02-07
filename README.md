@@ -79,3 +79,9 @@ excellence. 🌟 Thank you for choosing our solution! 🙌
 </div>
 
 
+## Contributors
+- ![John Doe](https://example.com/johndoe.jpg) [@johndoe](https://github.com/johndoe)
+  - Added feature X and fixed bug Y
+- ![Jane Smith](https://example.com/janesmith.jpg) [@janesmith](https://github.com/janesmith)
+  - Improved documentation and provided code refactoring
+
